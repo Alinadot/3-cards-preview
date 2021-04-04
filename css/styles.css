@@ -32,9 +32,9 @@ p {
 .container-one {
   min-width: 302px;
    display: inline-block;
-   width: 320px;
-   height: 500px;
-   padding: 50px 50px 80px;
+   width: 200px;
+   height: 400px;
+   padding: 50px 50px 70px;
    background-color: hsl(31, 77%, 52%);
  border-radius: 10px 0 0 10px;
 
@@ -42,18 +42,18 @@ p {
 .container-two {
   min-width: 302px;
    display: inline-block;
-   width: 320px;
-   height: 500px;
-   padding: 50px 50px 80px;
+   width: 200px;
+   height: 400px;
+   padding: 50px 50px 70px;
    background-color: hsl(184, 100%, 22%);
 
 }
  .container-three {
    min-width: 302px;
    display: inline-block;
-   width: 320px;
-   height: 500px;
-   padding: 50px 50px 80px;
+   width: 200px;
+   height: 400px;
+   padding: 50px 50px 70px;
    background-color: hsl(179, 100%, 13%);
   border-radius: 0 10px 10px 0;
  }
